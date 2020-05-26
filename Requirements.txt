@@ -1,0 +1,10 @@
+pip3 install ipython 
+pip3 install selenium  
+pip3 install time 
+pip3 install parsel
+pip3 install csv
+
+
+//For anaconda install library uisng following command 
+conda install -c conda-forge selenium
+conda install -c anaconda pymongo

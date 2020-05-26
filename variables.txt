@@ -1,0 +1,3 @@
+email: 
+password: 
+CHROME_DRIVER: /Users/preethi/Documents/Home_Projects/Interactive_Social_Dashboard/chromedriver
